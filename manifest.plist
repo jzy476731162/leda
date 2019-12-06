@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/hackycy/mitaoquan/raw/master/jytools.ipa</string>
+					<string>https://github.com/jzy476731162/leda/blob/master/leda-45.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/hackycy/mitaoquan/raw/master/icon-57.png</string>
+					<string>https://github.com/jzy476731162/leda/blob/master/icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/hackycy/mitaoquan/raw/master/icon-512.png</string>
+					<string>https://github.com/jzy476731162/leda/blob/master/icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>net.cn.sweetlover.mitaoquan</string>
+				<string>cn.xdf.ucan.leda</string>
 				<key>bundle-version</key>
-				<string>1.5</string>
+				<string>1.6.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>mitao</string>
+				<string>Leda</string>
 			</dict>
 		</dict>
 	</array>
